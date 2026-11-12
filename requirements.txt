@@ -1,0 +1,2 @@
+# portwave uses only the Python standard library (asyncio) — no external dependencies.
+# Python 3.8+
